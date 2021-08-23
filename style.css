@@ -1,0 +1,35 @@
+.row-css {
+  height: 500px;
+}
+
+.row {
+  background-color: rgb(53, 51, 59);
+  z-index: 10
+}
+
+.row-2 {
+  background-color: rgb(87, 84, 97);
+  z-index: 10
+}
+
+.text {
+  color: aliceblue;
+  z-index: 20;
+}
+
+.work-1 {
+  background-image: url(./Images/DarkBG.png);
+  border-block-style: 100%;
+}
+
+.work-2 {
+  background-image: url(./Images/DarkBG.png);
+}
+
+.work-3 {
+  background-image: url(./Images/DarkBG.png);
+}
+
+.work-4 {
+  background-image: url(./Images/DarkBG.png);
+}
